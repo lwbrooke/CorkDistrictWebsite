@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Purchase Choice";
+}
+
+<h2>Choose Method of Payment or View Prior Purchases</h2>
+<p>
+    @if (TempData["NewUser"] != null) {<ul><li><span style="color:black">@TempData["NewUser"]</span></li></ul>}
+    <div>
+        @using(Html.BeginForm("CreateCC", "Purchases", FormMethod.Get))
+        {
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Credit Card" class="btn btn-default" />
+                </div>
+            </div>
+        }
+        @using (Html.BeginForm("CreateCash", "Purchases", FormMethod.Get))
+        {
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Cash" class="btn btn-default" />
+                </div>
+            </div>
+        }
+        @using(Html.BeginForm("Index", "Purchases"))
+        {
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Prior Purchases" class="btn btn-default" />
+                </div>
+            </div>
+        }
+    </div>
+</p>

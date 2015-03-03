@@ -1,0 +1,76 @@
+﻿@model PagedList.IPagedList<CorkDistrict.ViewModels.AdminCardStatsViewModel>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+        ViewBag.Title = "ActiveCards";
+}
+
+<h2>Cards Useage</h2>
+
+@using (Html.BeginForm("AdminCardStats", "Administration", FormMethod.Get))
+{
+    <p>
+        Find Vendor Name or for a specific Card ID: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="sortable">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().CardID)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().remainingUses)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().purchasedAt)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().owner)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().vistedWineries)
+        </th>
+       
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CardID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.remainingUses)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.purchasedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.owner)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.vistedWineries)
+            </td>
+        </tr>
+    }
+
+</table>
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("AdminCardStats",
+    new { page, currentFilter = ViewBag.CurrentFilter }))
+
+<div>
+    @Html.ActionLink("Back to Menu", "Menu")
+</div>
+@section Scripts{
+    @Scripts.Render("~/bundles/sorttable")
+}

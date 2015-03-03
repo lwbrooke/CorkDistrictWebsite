@@ -1,0 +1,69 @@
+﻿@model CorkDistrict.ViewModels.AggregateCardStatsViewModel
+
+@{
+    ViewBag.Title = "Card Report";
+}
+
+<h2>Card Report</h2>
+
+<div>
+    @using (Html.BeginForm("CardReport", "Administration", FormMethod.Get))
+    {
+        <p>
+            Filter By Month: @Html.DropDownList("SearchMonth", new SelectList(new List<object> { new {Text = "", Value = ""},
+               new {Text = "01", Value = "Jan"},
+               new {Text = "02", Value = "Feb"},
+               new {Text = "03" , Value = "Mar"},
+               new {Text = "04", Value = "Apr"},
+               new {Text = "05", Value = "May"},
+               new {Text = "06", Value = "June"},
+               new {Text = "07", Value = "July"},
+               new {Text = "08", Value = "Aug"},
+               new {Text = "09", Value = "Sept"},
+               new {Text = "10", Value = "Oct"},
+	           new {Text = "11", Value = "Nov"},
+	           new {Text = "12", Value = "Dec"} }, "Text", "Value", 2))
+            Filter By Year: @Html.DropDownList("SearchYear", new SelectList(new List<object> { new {Text = "", Value = ""},
+               new {Text = "2015", Value = "2014"},
+               new {Text = "2015", Value = "2015"} }, "Text", "Value", 2))
+            <input type="submit" value="Search" />
+        </p>
+    }
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Count)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Count)
+        </dd>
+
+<dt>
+    @Html.DisplayNameFor(model => model.ActiveCount)
+</dt>
+
+<dt>
+    @Html.DisplayNameFor(model => model.NewActives)
+</dt>
+
+<dd>
+    @Html.DisplayFor(model => model.ActiveCount)
+</dd>
+
+<dt>
+    @Html.DisplayNameFor(model => model.UsesRemaining)
+</dt>
+
+<dd>
+    @Html.DisplayFor(model => model.UsesRemaining)
+</dd>
+
+<dd>
+    @Html.DisplayNameFor(model => model.NewActives)
+</dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to Menu", "Menu")
+</p>

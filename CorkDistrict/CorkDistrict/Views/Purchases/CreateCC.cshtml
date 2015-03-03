@@ -1,0 +1,246 @@
+﻿@model CorkDistrict.ViewModels.CCViewModel
+
+@{
+    ViewBag.Title = "Credit Card Purchase";
+}
+
+<h4>
+    1. Scan or enter tasting card number which is located on the back of the corkdistrict tasting card.
+</h4>
+<h4>
+    2. Scan or continue to put in your payment information.
+</h4>
+<h4>
+    3. Press the purchase button located at the bottom of the page.
+</h4>
+
+<h2>Credit Card Purchase</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4></h4>        
+        @if (TempData["PCWmessage"] != null) {<ul><li><span style="color:red">@TempData["PCWmessage"]</span></li></ul>}
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CardID, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CardID)
+                @Html.ValidationMessageFor(model => model.CardID)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Email)
+                @Html.ValidationMessageFor(model => model.Email)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.FirstName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.FirstName)
+                @Html.ValidationMessageFor(model => model.FirstName)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.MiddleName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.MiddleName)
+                @Html.ValidationMessageFor(model => model.MiddleName)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.LastName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.LastName)
+                @Html.ValidationMessageFor(model => model.LastName)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.AddressLine1, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.AddressLine1)
+                @Html.ValidationMessageFor(model => model.AddressLine1)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.AddressLine2, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.AddressLine2)
+                @Html.ValidationMessageFor(model => model.AddressLine2)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.City, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.City)
+                @Html.ValidationMessageFor(model => model.City)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.State, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.State, new SelectList(
+           new List<object>
+           {
+               new {Text = "", Value = ""},
+               new {Text = "AL", Value = "AL"},
+               new {Text = "AK", Value = "AK"},
+               new {Text = "AZ" , Value = "AZ"},
+               new {Text = "AR", Value = "AR"},
+               new {Text = "CA", Value = "CA"},
+               new {Text = "CO", Value = "CO"},
+               new {Text = "CT", Value = "CT"},
+               new {Text = "DE", Value = "DE"},
+               new {Text = "FL", Value = "FL"},
+               new {Text = "GA", Value = "GA"},
+               new {Text = "HI", Value = "HI"},
+               new {Text = "ID", Value = "ID"},
+               new {Text = "IL", Value = "IL"},
+               new {Text = "IN", Value = "IN"},
+               new {Text = "IA", Value = "IA"},
+               new {Text = "KS", Value = "KS"},
+               new {Text = "KY", Value = "KY"},
+               new {Text = "LA", Value = "LA"},
+               new {Text = "ME", Value = "ME"},
+               new {Text = "MD", Value = "MD"},
+               new {Text = "MA", Value = "MA"},
+               new {Text = "MI", Value = "MI"},
+               new {Text = "MN", Value = "MN"},
+               new {Text = "MS", Value = "MS"},
+               new {Text = "MO", Value = "MO"},
+               new {Text = "MT", Value = "MT"},
+               new {Text = "NE", Value = "NE"},
+               new {Text = "NV" , Value = "NV"},
+               new {Text = "NH", Value = "NH"},
+               new {Text = "NJ", Value = "NJ"},
+               new {Text = "NM", Value = "NM"},
+               new {Text = "NY", Value = "NY"},
+               new {Text = "NC", Value = "NC"},
+               new {Text = "ND", Value = "ND"},
+               new {Text = "OH", Value = "OH"},
+               new {Text = "OK", Value = "OK"},
+               new {Text = "OR", Value = "OR"},
+               new {Text = "PA", Value = "PA"},
+               new {Text = "RI", Value = "RI"},
+               new {Text = "SC", Value = "SC"},
+               new {Text = "SD", Value = "SD"},
+               new {Text = "TN", Value = "TN"},
+               new {Text = "TX", Value = "TX"},
+               new {Text = "UT", Value = "UT"},
+               new {Text = "VT", Value = "VT"},
+               new {Text = "VA", Value = "VA"},
+               new {Text = "WA", Value = "WA"},
+               new {Text = "WV", Value = "WV"},
+               new {Text = "WI", Value = "WI"},
+               new {Text = "WY", Value = "WY"}
+           },
+               "Text",
+               "Value",
+               2))
+                @Html.ValidationMessageFor(model => model.State)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ZipCode, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ZipCode)
+                @Html.ValidationMessageFor(model => model.ZipCode)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Country, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Country)
+                @Html.ValidationMessageFor(model => model.Country)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CreditCardNum, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CreditCardNum)
+                @Html.ValidationMessageFor(model => model.CreditCardNum)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ExpirationMonth, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.ExpirationMonth, new SelectList(
+           new List<object>
+           {
+	       new {Text = "", Value = ""},
+               new {Text = "01", Value = "Jan"},
+               new {Text = "02", Value = "Feb"},
+               new {Text = "03" , Value = "Mar"},
+               new {Text = "04", Value = "Apr"},
+               new {Text = "05", Value = "May"},
+               new {Text = "06", Value = "June"},
+               new {Text = "07", Value = "July"},
+               new {Text = "08", Value = "Aug"},
+               new {Text = "09", Value = "Sept"},
+               new {Text = "10", Value = "Oct"},
+	       new {Text = "11", Value = "Nov"},
+	       new {Text = "12", Value = "Dec"}
+
+
+
+           },
+               "Text",
+               "Value",
+               2))
+                @Html.ValidationMessageFor(model => model.State)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ExpirationYear, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.ExpirationYear, new SelectList(new[] { new { Text = "", Value = (string)null } }.Concat(Enumerable.Range(DateTime.Today.Year, 50).Select(r => new
+           {
+               Text = new DateTime(r, 1, 1).ToString("yyyy"),
+               Value = r.ToString()
+           })),
+
+                "Value",
+                "Text",
+                2))
+                @Html.ValidationMessageFor(model => model.ExpirationYear)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CVC, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CVC)
+                @Html.ValidationMessageFor(model => model.CVC)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Purchase" class="btn btn-default" onclick="return (confirm('All information is correct?'))" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Prior Purchases", "Index")
+</div>

@@ -1,0 +1,73 @@
+﻿@model PagedList.IPagedList<CorkDistrict.ViewModels.AdminWineryStatsViewModel>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+
+@{
+    ViewBag.Title = "WinerySummary";
+}
+
+<h2>Winery Summary</h2>
+
+@using (Html.BeginForm("AdminWineryStats", "Administration", FormMethod.Get))
+{
+    <p>
+        Find by Winerie's User Name, Name, or Email: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="sortable">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().siteID)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().soldCards)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().promosRedeemed)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().totalRedeemed)
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.siteID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.soldCards)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.promosRedeemed)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.totalRedeemed)
+            </td>
+
+        </tr>
+    }
+
+</table>
+<br/>
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("AdminWineryStats",
+    new { page, currentFilter = ViewBag.CurrentFilter }))
+
+<div>
+    @Html.ActionLink("Back to Menu", "Menu")
+</div>
+@section Scripts{
+    @Scripts.Render("~/bundles/sorttable")
+}
+
+

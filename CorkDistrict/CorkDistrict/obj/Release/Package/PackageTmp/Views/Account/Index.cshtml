@@ -1,0 +1,71 @@
+﻿@model PagedList.IPagedList<CorkDistrict.Models.EditUserViewModel>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "User Management";
+}
+
+<h2>User Management</h2>
+
+<p>
+    @Html.ActionLink("Create New", "AdminRegister")
+</p>
+
+@using (Html.BeginForm("Index", "Account", FormMethod.Get))
+{
+    <p>
+        Find by User Name, Name, or Email: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <div>
+            Filter by Role:
+            @Html.RadioButton("RoleSearch", "User", (ViewBag.CurrentRole as string).Equals("User")) User
+            @Html.RadioButton("RoleSearch", "Winery", (ViewBag.CurrentRole as string).Equals("Winery")) Winery
+            @Html.RadioButton("RoleSearch", "Admin", (ViewBag.CurrentRole as string).Equals("Admin")) Admin
+        </div>
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="sortable">
+    <tr>
+        <th>
+            User Name
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+            Email
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.UserName }) |
+                @Html.ActionLink("Roles", "UserRoles", new { id = item.UserName })@* |
+                @Html.ActionLink("Delete", "Delete", new { id = item.UserName })*@
+            </td>
+        </tr>
+    }
+
+</table>
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, currentRole = ViewBag.CurrentRole, currentFilter = ViewBag.CurrentFilter }))
+@section Scripts{
+@Scripts.Render("~/bundles/sorttable")
+}

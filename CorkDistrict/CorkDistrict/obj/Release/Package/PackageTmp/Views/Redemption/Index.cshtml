@@ -1,0 +1,61 @@
+﻿@model PagedList.IPagedList<CorkDistrict.ViewModels.RedemptionIndexViewModel>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Redemptions";
+}
+
+<h2>Past Redemptions</h2>
+
+<p>
+    @Html.ActionLink("Redeem Another Tasting", "Create")
+</p>
+<table class="sortable">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().CardID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().owner)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().TimeStamp)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().WineryID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().uses)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CardID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.owner)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TimeStamp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WineryID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.uses)
+            </td>
+        </tr>
+    }
+
+</table>
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+@section Scripts{
+    @Scripts.Render("~/bundles/sorttable")
+}

@@ -1,0 +1,44 @@
+﻿@model CorkDistrict.ViewModels.RedeemViewModel
+
+@{
+    ViewBag.Title = "Redeem";
+}
+
+<h4>
+    Please scan or enter corkdistrict tasting card number located on the back of the card.
+</h4>
+<h2>Redeem A Tasting</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <hr />
+        @if (TempData["Rmessage"] != null) {<ul><li><span style="color:red">@TempData["Rmessage"]</span></li></ul>}
+        @Html.ValidationSummary(true)
+        
+        <div class="form-group">
+            @Html.LabelFor(model => model.CardID, "CardID", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CardID)
+                @Html.ValidationMessageFor(model => model.CardID)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Redeem" class="btn btn-default" onclick="return (confirm('Confirm Redeem?'))" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Prior Redemptions", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

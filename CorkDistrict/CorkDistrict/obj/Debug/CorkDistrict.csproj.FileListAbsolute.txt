@@ -1,0 +1,370 @@
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\CorkDistrict.dll.config
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\CorkDistrict.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\CorkDistrict.pdb
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Antlr3.Runtime.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\EntityFramework.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\EntityFramework.SqlServer.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Newtonsoft.Json.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Owin.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\System.Web.Helpers.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\System.Web.Mvc.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\System.Web.Optimization.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\System.Web.Razor.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Razor.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\WebGrease.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\System.Web.Helpers.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\System.Web.Mvc.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\System.Web.Optimization.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\System.Web.Razor.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Razor.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Newtonsoft.Json.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Antlr3.Runtime.pdb
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\EntityFramework.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\EntityFramework.SqlServer.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.dll
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.pdb
+C:\Users\tmelcher\Desktop\vStudio\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.csprojResolveAssemblyReference.cache
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\CorkDistrict.dll.config
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\CorkDistrict.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\CorkDistrict.pdb
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Antlr3.Runtime.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\EntityFramework.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\EntityFramework.SqlServer.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Newtonsoft.Json.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Owin.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\System.Web.Helpers.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\System.Web.Mvc.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\System.Web.Optimization.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\System.Web.Razor.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Razor.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\WebGrease.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\System.Web.Helpers.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\System.Web.Mvc.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\System.Web.Optimization.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\System.Web.Razor.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Razor.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Newtonsoft.Json.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Antlr3.Runtime.pdb
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\EntityFramework.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\EntityFramework.SqlServer.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.csprojResolveAssemblyReference.cache
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.dll
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.pdb
+C:\Users\Logan\Documents\CSCD 488\CorkDistrict\CorkDistrict\bin\Stripe.net.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\CorkDistrict.dll.config
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\CorkDistrict.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\CorkDistrict.pdb
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Antlr3.Runtime.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\EntityFramework.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\EntityFramework.SqlServer.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Newtonsoft.Json.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Owin.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Stripe.net.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.Helpers.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.Mvc.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.Optimization.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.Razor.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Razor.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\WebGrease.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.Helpers.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.Mvc.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.Optimization.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.Razor.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Razor.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Newtonsoft.Json.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Antlr3.Runtime.pdb
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\EntityFramework.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\EntityFramework.SqlServer.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.csprojResolveAssemblyReference.cache
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.pdb
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\CorkDistrict.dll.config
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\CorkDistrict.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\CorkDistrict.pdb
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Antlr3.Runtime.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\EntityFramework.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\EntityFramework.SqlServer.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Newtonsoft.Json.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Owin.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Stripe.net.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\System.Web.Helpers.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\System.Web.Mvc.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\System.Web.Optimization.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\System.Web.Razor.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Razor.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\WebGrease.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\System.Web.Helpers.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\System.Web.Mvc.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\System.Web.Optimization.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\System.Web.Razor.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Razor.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Newtonsoft.Json.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Antlr3.Runtime.pdb
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\EntityFramework.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\EntityFramework.SqlServer.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.csprojResolveAssemblyReference.cache
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.dll
+C:\Users\Logan\Desktop\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.pdb
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.csproj.GenerateResource.Cache
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\CorkDistrict.dll.config
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\CorkDistrict.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\CorkDistrict.pdb
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Antlr3.Runtime.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\EntityFramework.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\EntityFramework.SqlServer.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Newtonsoft.Json.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Owin.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Stripe.net.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.Helpers.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.Mvc.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.Optimization.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.Razor.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Razor.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\WebGrease.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.Helpers.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.Mvc.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.Optimization.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.Razor.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Razor.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Newtonsoft.Json.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Antlr3.Runtime.pdb
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\EntityFramework.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\EntityFramework.SqlServer.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.csprojResolveAssemblyReference.cache
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.InitialMigration.resources
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.CardChanges.resources
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.test.resources
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.SeedAndActivationChange.resources
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.ModelDataAnnotations1.resources
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.ChangePurchasePrimaryKey.resources
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.WineryIDString.resources
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.PurchaseRequiredAttr.resources
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.RedemptionChangeunRequire.resources
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.cityRequired.resources
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.CCnumString.resources
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.ExpDateToMonthAndYear.resources
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.csproj.GenerateResource.Cache
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.dll
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.pdb
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.ModifiedTheStateField.resources
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.MigrationsUsers.FirstLastEmail.resources
+C:\Users\tmelcher\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.MigrationsUsers.FirstLastEmail.resources
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.MigrationsUsers.newUserSeed.resources
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.MigrationsModels.modelchanges5162014.resources
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.MigrationsModels.Modeltest1.resources
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.MigrationsModels.CashAddition.resources
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.MigrationsModels.PurchaseModelReduction.resources
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.MigrationsUsers.FLnameToName.resources
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\CorkDistrict.dll.config
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\CorkDistrict.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\CorkDistrict.pdb
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Antlr3.Runtime.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\EntityFramework.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\EntityFramework.SqlServer.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Newtonsoft.Json.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Owin.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Stripe.net.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\System.Web.Helpers.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\System.Web.Mvc.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\System.Web.Optimization.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\System.Web.Razor.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Razor.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\WebGrease.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\System.Web.Helpers.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\System.Web.Mvc.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\System.Web.Optimization.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\System.Web.Razor.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\System.Web.WebPages.Razor.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Newtonsoft.Json.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Antlr3.Runtime.pdb
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\EntityFramework.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\EntityFramework.SqlServer.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.csprojResolveAssemblyReference.cache
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.MigrationsUsers.FirstLastEmail.resources
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.MigrationsUsers.newUserSeed.resources
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.MigrationsModels.modelchanges5162014.resources
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.MigrationsModels.Modeltest1.resources
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.MigrationsModels.CashAddition.resources
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.MigrationsModels.PurchaseModelReduction.resources
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.Migrations.MigrationsUsers.FLnameToName.resources
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.csproj.GenerateResource.Cache
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.dll
+C:\Users\fre-dv\Documents\Visual Studio 2013\Projects\CorkDistrict\CorkDistrict\obj\Debug\CorkDistrict.pdb
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\PagedList.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\PagedList.Mvc.dll
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\PagedList.xml
+C:\Users\Logan\Documents\GitHub\Team_3\CorkDistrict\CorkDistrict\bin\PagedList.Mvc.xml

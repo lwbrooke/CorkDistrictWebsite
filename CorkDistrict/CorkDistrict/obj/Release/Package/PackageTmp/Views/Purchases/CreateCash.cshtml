@@ -1,0 +1,45 @@
+﻿@model CorkDistrict.ViewModels.CashViewModel
+
+@{
+    ViewBag.Title = "Cash Purchase";
+}
+
+<h2>Cash Purchase</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4></h4>        
+        @if (TempData["PCaWmessage"] != null) {<ul><li><span style="color:red">@TempData["PCaWmessage"]</span></li></ul>}
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CardID, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CardID)
+                @Html.ValidationMessageFor(model => model.CardID)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Email)
+                @Html.ValidationMessageFor(model => model.Email)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Purchase" class="btn btn-default" onclick="return (confirm('All information is correct?'))" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Prior Purchases", "Index")
+</div>

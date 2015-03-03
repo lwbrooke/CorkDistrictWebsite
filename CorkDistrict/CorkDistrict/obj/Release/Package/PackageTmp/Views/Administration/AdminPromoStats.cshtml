@@ -1,0 +1,75 @@
+﻿@model PagedList.IPagedList<CorkDistrict.ViewModels.AdminPromoStatsViewModel>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "PromoCards";
+}
+
+<h2>Promo Card Usage</h2>
+
+@using (Html.BeginForm("AdminPromoStats", "Administration", FormMethod.Get))
+{
+    <p>
+        Find by Vendor Name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="sortable">
+    <tr>
+
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().CardID)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().remainingUses)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().vendorIssuer)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().locationsUsed)
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.CardID)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.remainingUses)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.vendorIssuer)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.locationsUsed)
+        </td>
+
+    </tr>
+    }
+
+</table>
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("AdminPromoStats",
+    new { page, currentFilter = ViewBag.CurrentFilter }))
+
+<div>
+    @Html.ActionLink("Back to Menu", "Menu")
+</div>
+@section Scripts{
+    @Scripts.Render("~/bundles/sorttable")
+}

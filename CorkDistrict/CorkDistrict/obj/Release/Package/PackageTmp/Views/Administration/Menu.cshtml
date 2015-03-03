@@ -1,0 +1,70 @@
+﻿
+@{
+    ViewBag.Title = "Administration Menu";
+}
+
+<h2>Administration Menu</h2>
+@if (TempData["CrTCmessage"] != null) {<ul><li><span style="color:black">@TempData["CrTCmessage"]</span></li></ul>}
+<p>
+    <div>
+        @using (Html.BeginForm("CreateCards", "Administration", FormMethod.Get))
+        {
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Add More Tasting Cards" class="btn btn-default" />
+                </div>
+            </div>
+        }
+    </div>
+    <div>
+        @using (Html.BeginForm("CardReport", "Administration", FormMethod.Get))
+        {
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Card Report" class="btn btn-default" />
+                </div>
+            </div>
+        }
+    </div>
+    <div>
+        @using (Html.BeginForm("AdminCardStats", "Administration", FormMethod.Get))
+        {
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Active Card Usage" class="btn btn-default" />
+                </div>
+            </div>
+        }
+    </div>
+    <div>
+        @using (Html.BeginForm("AdminPromoStats", "Administration", FormMethod.Get))
+        {
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Promotional Card Summary" class="btn btn-default" />
+                </div>
+            </div>
+        }
+    </div>
+    <div>
+        @using (Html.BeginForm("AdminWineryStats", "Administration", FormMethod.Get))
+        {
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Winery Statistics" class="btn btn-default" />
+                </div>
+            </div>
+        }
+    </div>
+    <div>
+        @using (Html.BeginForm("Index", "Account", FormMethod.Get))
+        {
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Manage User Accounts" class="btn btn-default" />
+                </div>
+            </div>
+        }
+    </div>
+</p>
+

@@ -1,0 +1,59 @@
+﻿Object Overview
+
+    Brands
+        id
+        created
+        name
+        address
+        city
+        state
+        postal
+        phone
+        url
+        email
+        logo
+    Wineries
+        id
+        created
+        name
+        address
+        city
+        state
+        postal
+        phone
+        url
+        email
+    Vendors
+        id
+        created
+        name
+        address
+        city
+        state
+        postal
+        phone
+        url
+        email
+    Users // initially this stores portal users, but could also relate to vendors or wineries later
+        id
+        fname
+        lname
+        email
+        password
+    Cards
+        id
+        created
+        code
+        balance (# available redemptions)
+    CardActivations (activation model + purchases model)
+        id
+        timestamp
+        vendorid
+        cardid
+        details (store additional info, lat/long, etc.)
+    CardRedemptions (redemptions model)
+        id
+        timestamp
+        wineryid
+        cardid
+        details (store additional info, lat/long, etc.)
